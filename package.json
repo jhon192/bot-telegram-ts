@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/telebot": "^1.2.4",
+    "axios": "^0.26.1",
+    "telebot": "^1.4.1"
+  }
+}

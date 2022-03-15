@@ -1,1 +1,1 @@
-# bot created using typescript
+# bot telegram typescript
